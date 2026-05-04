@@ -1,0 +1,6 @@
+-The skill handles customer service questions and answers customer questions accordingly in a neat and precise way.
+-I chose this skill because I have used the Customer Service workflow previously and I find it nice to expand on the concept of a AI agent for customer service as I've seen many companies (Such as Walmart) using a similar concept for a reliable AI agent.
+-Use the Script in the repository with Openai's Codex in order to run it on your PowerShell/Terminal.
+-The script acts as a way for the program to successfully respond to any prompt or input given by the user just like a real AI agent. It heavily references the Skill.md file.
+-The agent was able to successfully respond to my questions and inputs just like a real agent would.
+-As the agent is not connected to a actual company's server, some functions such as contacting a real person or referencing a companies backlog is not viable with this agent.
