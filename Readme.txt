@@ -4,3 +4,4 @@
 -The script acts as a way for the program to successfully respond to any prompt or input given by the user just like a real AI agent. It heavily references the Skill.md file.
 -The agent was able to successfully respond to my questions and inputs just like a real agent would.
 -As the agent is not connected to a actual company's server, some functions such as contacting a real person or referencing a companies backlog is not viable with this agent.
+My video: https://youtu.be/0Tcnsc4QPc4
